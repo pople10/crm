@@ -1,0 +1,181 @@
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+    }
+.bg-gray {
+    background-color: #eff3f6;
+}
+.red{
+    color:red;
+}
+#topnav .navigation-menu>li .submenu.megamenu>li {
+    width: 250px!important;
+}
+
+.submenu {
+    min-width: 250px!important;
+}
+
+#topnav .navigation-menu {
+    max-height: none!important;
+}
+
+.alertify, .alertify-logs{
+    z-index:2000!important;
+}
+
+.uploadimgsection{
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+}
+input,.form-control,.selectize-input
+{
+    border-color: #000!important;
+}
+#topnav .navigation-menu>li .submenu li a
+{
+    color:#000!important;
+}
+#topnav .navigation-menu>li .submenu li a:hover
+{
+    color:#242c6d!important;
+}
+.uploadimg{
+    display: none;
+    border-radius: 20px;
+}
+.imgsection {
+    border-radius: 20px;
+}
+.uploadimgsection:hover .uploadimg{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    font-size: 50px;
+    background-color: rgb(0,0,0,.4);
+    color: white;
+    cursor: grab;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.uploadimg.show{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    font-size: 50px;
+    background-color: rgb(0,0,0,.4);
+    color: white;
+    cursor: grab;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.uploadimg.show .fa-camera {
+    display:none;
+}
+.uploadimg.show .loading {
+    display:block !important;
+}
+.parsley-error-focus:focus {
+    border-color: #ec536c;
+}
+
+#topnav {
+    z-index: 999;
+}
+
+td.flex-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+
+
+
+/*td.role-section > button{
+    display: none;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+}
+
+td.role-section{
+    position: relative;
+}
+
+td.role-section:hover>* {
+    filter: blur(2px);
+}
+
+td.role-section:hover button{
+    display: block;
+    filter: blur(0);
+    z-index: 1;
+}*/
+
+#topnav .navigation-menu>li>a {
+	font-size: 13px!important;
+}
+
+table tbody button, table tbody a {
+    font-size: smaller !important;
+    margin : 0 2px!important;
+}
+
+.selectize-input.focus {
+
+-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(0, 0, 0, 0.2);
+box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(0, 0, 0, 0.2);
+    
+}
+
+.preloader_modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    z-index: 9999999;
+}
+
+.status_modal {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -20px 0 0 -20px;
+}
+
+.selectize-control::before {
+	-moz-transition: opacity 0.2s;
+	-webkit-transition: opacity 0.2s;
+	transition: opacity 0.2s;
+	content: ' ';
+	z-index: 2;
+	position: absolute;
+	display: block;
+	top: 12px;
+	right: 34px;
+	width: 16px;
+	height: 16px;
+	background: url(./spinner.gif);
+	background-size: 16px 16px;
+	opacity: 0;
+}
+.selectize-control.loading::before {
+	opacity: 0.4;
+}
+
+.dataTable tfoot input {
+    
+    border: solid black 0.5px !important;
+    border-radius: 6px;
+    
+}

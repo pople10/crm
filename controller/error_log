@@ -1,0 +1,80 @@
+[05-Feb-2020 16:21:44 Europe/Berlin] PHP Notice:  Undefined index: file in /home/toubkali/public_html/crm/controller/Upload.php on line 4
+[05-Feb-2020 16:22:52 Europe/Berlin] PHP Warning:  move_uploaded_file(../public/images/0.jpg): failed to open stream: No such file or directory in /home/toubkali/public_html/crm/controller/Upload.php on line 22
+[05-Feb-2020 16:22:52 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcHj5yK' to '../public/images/0.jpg' in /home/toubkali/public_html/crm/controller/Upload.php on line 22
+[26-Feb-2020 23:07:56 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/toubkali/public_html/crm/controller/EntrepriseController.php on line 24
+[13-Mar-2020 18:22:10 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 27
+[13-Mar-2020 18:22:13 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 27
+[13-Mar-2020 18:22:24 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 27
+[13-Mar-2020 18:54:10 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 21
+[13-Mar-2020 18:54:31 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 21
+[23-Mar-2020 07:22:01 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home2/toubkali/public_html/crm/controller/PaimentFactureAchatController.php on line 26
+[23-Mar-2020 07:37:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/PaimentFactureAchatController.php on line 26
+[28-Jul-2020 14:57:44 UTC] PHP Parse error:  syntax error, unexpected '"findCountProductByCategory"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/toubkali/public_html/crm/controller/Statistiques.php on line 99
+[28-Jul-2020 14:57:51 UTC] PHP Parse error:  syntax error, unexpected '"findCountProductByCategory"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/toubkali/public_html/crm/controller/Statistiques.php on line 99
+[03-Aug-2020 14:28:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/Statistiques.php on line 124
+[03-Aug-2020 14:28:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/Statistiques.php on line 124
+[06-Aug-2020 19:12:33 UTC] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[06-Aug-2020 19:12:33 UTC] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[06-Aug-2020 19:12:33 UTC] PHP Fatal error:  Unknown: Failed opening required '/home2/toubkali/public_html/crm/controller/test.php' (include_path='.:/opt/alt/php70/usr/share/pear') in Unknown on line 0
+[06-Aug-2020 19:12:38 UTC] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[06-Aug-2020 19:12:38 UTC] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[06-Aug-2020 19:12:38 UTC] PHP Fatal error:  Unknown: Failed opening required '/home2/toubkali/public_html/crm/controller/test.php' (include_path='.:/opt/alt/php70/usr/share/pear') in Unknown on line 0
+[06-Aug-2020 19:20:21 UTC] PHP Warning:  array_filter() expects parameter 2 to be a valid callback, function '/' not found or invalid function name in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:20:25 UTC] PHP Warning:  array_filter() expects parameter 2 to be a valid callback, function '/home' not found or invalid function name in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:20:27 UTC] PHP Warning:  array_filter() expects parameter 2 to be a valid callback, function '/home2' not found or invalid function name in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:20:31 UTC] PHP Warning:  array_filter() expects parameter 2 to be a valid callback, function 'home2' not found or invalid function name in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:20:41 UTC] PHP Warning:  array_filter() expects parameter 2 to be a valid callback, function '' not found or invalid function name in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:20:44 UTC] PHP Warning:  array_filter() expects parameter 2 to be a valid callback, function '..' not found or invalid function name in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:21:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:21:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:22:31 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:22:32 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:22:44 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/toubkali/public_html/crm/controller/test.php on line 3
+[06-Aug-2020 19:49:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home2/toubkali/public_html/crm/controller/test.php on line 41
+[06-Aug-2020 20:42:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home2/toubkali/public_html/crm/controller/CheckLoginController.php on line 9
+[06-Aug-2020 20:42:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home2/toubkali/public_html/crm/controller/CheckLoginController.php on line 9
+[08-Aug-2020 10:04:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[08-Aug-2020 10:04:53 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[08-Aug-2020 10:04:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[08-Aug-2020 10:09:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[08-Aug-2020 10:10:45 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[08-Aug-2020 10:11:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[08-Aug-2020 10:11:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[08-Aug-2020 10:11:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[08-Aug-2020 10:11:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 42
+[16-Aug-2020 12:59:00 UTC] PHP Fatal error:  __HALT_COMPILER() can only be used from the outermost scope in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 115
+[16-Aug-2020 12:59:21 UTC] PHP Fatal error:  __HALT_COMPILER() can only be used from the outermost scope in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 115
+[16-Aug-2020 12:59:26 UTC] PHP Fatal error:  __HALT_COMPILER() can only be used from the outermost scope in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 115
+[16-Aug-2020 12:59:41 UTC] PHP Fatal error:  __HALT_COMPILER() can only be used from the outermost scope in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 115
+[16-Aug-2020 13:00:17 UTC] PHP Fatal error:  __HALT_COMPILER() can only be used from the outermost scope in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 115
+[16-Aug-2020 13:00:17 UTC] PHP Fatal error:  __HALT_COMPILER() can only be used from the outermost scope in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 115
+[16-Aug-2020 13:00:21 UTC] PHP Fatal error:  __HALT_COMPILER() can only be used from the outermost scope in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 115
+[16-Aug-2020 13:03:35 UTC] PHP Parse error:  syntax error, unexpected '__halt_compiler' (T_HALT_COMPILER) in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 121
+[16-Aug-2020 13:07:08 UTC] PHP Parse error:  syntax error, unexpected '__halt_compiler' (T_HALT_COMPILER) in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 122
+[17-Aug-2020 13:01:57 UTC] PHP Parse error:  syntax error, unexpected 'Société' (T_STRING) in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 39
+[17-Aug-2020 13:01:57 UTC] PHP Parse error:  syntax error, unexpected 'Société' (T_STRING) in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 39
+[18-Aug-2020 09:57:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/toubkali/public_html/crm/controller/test.php on line 47
+[21-Aug-2020 14:06:42 UTC] PHP Parse error:  syntax error, unexpected '"' in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 53
+[21-Aug-2020 14:07:39 UTC] PHP Parse error:  syntax error, unexpected '"' in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 53
+[21-Aug-2020 14:38:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/AlertLatePaymentController.php on line 40
+[21-Aug-2020 14:39:47 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home2/toubkali/public_html/crm/controller/AlertLatePaymentController.php on line 40
+[21-Aug-2020 14:56:04 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/toubkali/public_html/crm/controller/AlertLatePaymentController.php on line 22
+[21-Aug-2020 14:56:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/toubkali/public_html/crm/controller/AlertLatePaymentController.php on line 22
+[21-Aug-2020 14:56:25 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/toubkali/public_html/crm/controller/AlertLatePaymentController.php on line 22
+[21-Aug-2020 14:56:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/toubkali/public_html/crm/controller/AlertLatePaymentController.php on line 22
+[21-Aug-2020 15:08:02 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 74
+[21-Aug-2020 15:08:30 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 74
+[21-Aug-2020 15:24:45 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/AlertLatePaymentController.php on line 79
+[21-Aug-2020 15:33:43 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/RelevesFournisseursController.php on line 88
+[23-Aug-2020 10:22:40 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 62
+[23-Aug-2020 10:22:40 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ')' in /home2/toubkali/public_html/crm/controller/BonVenteController.php on line 62
+[24-Aug-2020 11:12:04 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:12:05 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:12:06 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:13:46 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:13:54 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:16:45 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:16:45 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:16:47 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:17:03 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24
+[24-Aug-2020 11:17:11 UTC] PHP Parse error:  syntax error, unexpected '$description_textarea' (T_VARIABLE), expecting ',' or ')' in /home2/toubkali/public_html/crm/controller/ProduitController.php on line 24

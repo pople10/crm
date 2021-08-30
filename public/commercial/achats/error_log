@@ -1,0 +1,4 @@
+[28-Mar-2020 23:04:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http_redirect() in /home2/toubkali/public_html/crm/public/commercial/achats/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/toubkali/public_html/crm/public/commercial/achats/index.php on line 2

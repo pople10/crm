@@ -1,0 +1,130 @@
+<?php
+
+
+class PaimentAvoirAchat
+{
+    private $id;
+    private $avoir;
+    private $date;
+    private $type;
+    private $numero_cheque;
+    private $montant;
+
+    /**
+     * PaimentAvoirAchat constructor.
+     * @param $id
+     * @param $avoir
+     * @param $date
+     * @param $type
+     * @param $numero_cheque
+     * @param $montant
+     */
+    public function __construct($id, $avoir, $date, $type, $numero_cheque, $montant)
+    {
+        $this->id = $id;
+        $this->avoir = $avoir;
+        $this->date = $date;
+        $this->type = $type;
+        $this->numero_cheque = $numero_cheque;
+        $this->montant = $montant;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * @param mixed $id
+     */
+    public function setId($id)
+    {
+        $this->id = $id;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getAvoir()
+    {
+        return $this->avoir;
+    }
+
+    /**
+     * @param mixed $avoir
+     */
+    public function setAvoir($avoir)
+    {
+        $this->avoir = $avoir;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getDate()
+    {
+        return $this->date;
+    }
+
+    /**
+     * @param mixed $date
+     */
+    public function setDate($date)
+    {
+        $this->date = $date;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getType()
+    {
+        return $this->type;
+    }
+
+    /**
+     * @param mixed $type
+     */
+    public function setType($type)
+    {
+        $this->type = $type;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getNumeroCheque()
+    {
+        return $this->numero_cheque;
+    }
+
+    /**
+     * @param mixed $numero_cheque
+     */
+    public function setNumeroCheque($numero_cheque)
+    {
+        $this->numero_cheque = $numero_cheque;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getMontant()
+    {
+        return $this->montant;
+    }
+
+    /**
+     * @param mixed $montant
+     */
+    public function setMontant($montant)
+    {
+        $this->montant = $montant;
+    }
+
+
+
+}
